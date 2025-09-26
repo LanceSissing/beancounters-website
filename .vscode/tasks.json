@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Open Live Preview",
+			"type": "shell",
+			"command": "echo",
+			"args": [
+				"Starting Live Preview Server..."
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "serve"
+		}
+	]
+}
