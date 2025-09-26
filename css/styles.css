@@ -110,6 +110,12 @@ p {
     margin-bottom: 0;
 }
 
+.nav__logo {
+    height: 80px;
+    width: auto;
+    margin-bottom: 0.25rem;
+}
+
 .nav__tagline {
     font-size: 0.9rem;
     color: #666;
